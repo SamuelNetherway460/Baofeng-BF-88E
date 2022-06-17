@@ -18,6 +18,8 @@ Repository for the Baofeng BF-88E digital radio. Contains all documents relating
 | PMR446        | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-BF-88E/Config-PMR446) | ![version](https://img.shields.io/badge/release-PMR446--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-XX--XX--XXXX-red) |
 
 ## Radio Specs
+
+### General
 - Frequency Range: UHF 400-470MHz
 - RF Rated Power: 0.5W/2W
 - Channel Capacity: 16
@@ -32,7 +34,7 @@ Repository for the Baofeng BF-88E digital radio. Contains all documents relating
 - Weight (with battery/antenna): 198g
 - Communication Range: about 2-4km
 
-## Transmitter
+### Transmitter
 - RF Power Output: 3W
 - Modulation: F3E
 - Spurious Emission: ≤65dB
@@ -40,7 +42,7 @@ Repository for the Baofeng BF-88E digital radio. Contains all documents relating
 - Audio Distortion: ≤5%
 - Transmitting Current: ≤1.3A
 
-## Receiver
+### Receiver
 - Sensitivity (12dB SINAD): ≤0.20 uVSelectivity: 55dB/50dB
 - Intermodulation: ≥65dB
 - Adjacent Channel Selectivity: ≥60dB
